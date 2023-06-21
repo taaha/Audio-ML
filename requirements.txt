@@ -1,0 +1,7 @@
+librosa
+matplotlib
+datasets[audio]
+gradio
+transformers
+torch
+ffmpeg-python

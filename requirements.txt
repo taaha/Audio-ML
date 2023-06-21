@@ -5,3 +5,8 @@ gradio
 transformers
 torch
 ffmpeg-python
+ipywidgets
+huggingface_hub
+accelerate
+transformers[torch]
+evaluate
